@@ -1,0 +1,8 @@
+#p2 {
+    border: 1px solid rgba(192, 192, 0, .3);
+    border-collapse:separate;
+    border-radius: 4px;
+
+    padding: 5px;
+    box-shadow: 5px 5px 5px cornflowerblue;
+}
