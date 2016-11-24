@@ -5,5 +5,4 @@ $(() => {
     $('#p').append('ala ma kota' + '</br>');
     $('#p').append('ala ma kota2' + '</br>');
     $('#p').append('ala ma kota3' + '</br>');
-    $('#p').append('ala ma kota4' + '</br>');
 })

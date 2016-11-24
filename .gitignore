@@ -1,7 +1,4 @@
 node_modules
 typings
 tsd.json
-
-*.map
-1.js
-2.js
+scripts
