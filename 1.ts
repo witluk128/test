@@ -3,4 +3,5 @@ $(() => {
 
     $('#main').append('<p id="p"></p>');
     $('#p').append('ala ma kota');
+    $('#p').append('ala ma kota2');
 })
